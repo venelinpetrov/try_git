@@ -3,3 +3,4 @@ commit from test2
 
 red1-1
 red1-2
+blue1
